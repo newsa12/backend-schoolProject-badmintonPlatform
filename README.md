@@ -1,5 +1,5 @@
 # Badminton Matching Service
-Implementing a Badminton Matching Platform for School Assignments
+Badminton Matching Platform for School Assignments
 
 # git clone
 git clone https://github.com/newsa12/backend-schoolProject-badmintonPlatform.git
